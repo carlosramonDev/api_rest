@@ -12,7 +12,7 @@ module.exports = {
   },
   rules: {
     'no-console': 'off'
-    'linebreak-style': ['error', 'unix']
+    'linebreak-style': ['error', 'unix'],
+    'import/first': 'off'
   },
 };
-  
