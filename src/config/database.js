@@ -15,7 +15,7 @@ module.exports = {
     updatedAt: 'updated_at',
   },
   dialectOptions: {
-    timezone: 'America/Bahia'
+    timezone: 'America/Bahia',
   },
   timezone: 'America/Bahia',
 };
