@@ -11,9 +11,8 @@ class HomeController {
         height: 1.68,
       });
       res.json(newStudent);
-    } catch (error) {
-      console.error(error);
-      res.status(500).json({ error: 'Erro interno do servidor' });
+    } catch (e) {
+      res.status(400).json(e.errors.map((err) => err.message));
     }
   }
 }
