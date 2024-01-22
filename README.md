@@ -27,7 +27,7 @@ Esta API possibilita o gerenciamento escolar, permitindo aos usuários cadastrar
 git clone git@github.com:carlosramonDev/api_rest.git
 ```
 
-3 - Configure as variáveis de ambiente definidas no arquivo `env.sample`.
+3 - Configure as variáveis de ambiente definidas no arquivo .env.
 
 4 - Você deve instalar as dependências necessárias:
 
