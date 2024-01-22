@@ -1,4 +1,4 @@
-# API REST
+# API REST - Em construção
 
 Este projeto é uma API REST desenvolvida utilizando JavaScript, Node.js.
 
