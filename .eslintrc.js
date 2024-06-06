@@ -13,6 +13,7 @@ module.exports = {
   rules: {
     'no-console': 'off'
     'linebreak-style': ['error', 'unix'],
-    'import/first': 'off'
+    'import/first': 'off',
+    'camelcase': 'off'
   },
 };
